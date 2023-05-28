@@ -15,7 +15,7 @@ export default function Main() {
         <div className="w-[814px] h-[1056px] absolute left-[315px] top-[15px] border-solid border border-[#c7c7c7]">
           <div
             contentEditable={true}   className="bg-white hover:border-[#c4c7c5] outline-none cursor-text w-full h-full"
-          >csdfvsfvdscsdcsdcsdc</div>
+          ></div>
         </div>
       </div>
       <div className="left-[1377px] pt-[17px] w-[35px] h-[1100px] fixed top-[61px] z-[100] flex flex-col gap-[32px]">
