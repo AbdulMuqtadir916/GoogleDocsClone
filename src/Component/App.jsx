@@ -1,11 +1,13 @@
-
+import Header from "./Header";
+import Main from "./Main";
 
 function App() {
-  
   return (
-  <>
-  <h1 className="text-red-600" >hellfo</h1></>
-  )
+    <>
+      <Header />
+      <Main/>
+    </>
+  );
 }
 
-export default App
+export default App;
